@@ -8,6 +8,7 @@ public class PlansApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PlansApiApplication.class, args);
+		System.out.println("Nilkant Github Repo successfull");
 	}
 
 }
